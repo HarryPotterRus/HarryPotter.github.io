@@ -1,0 +1,23 @@
+﻿body{background: url("images/img.jpg") no-repeat #000000;
+     background-size: 105%;
+     
+     overflow: auto;
+     ;
+}
+.block1 {background: white;
+         width: 65%;
+         height: 2200%;
+         margin: auto;
+         opacity: 0.8;
+         border-radius: 10px;
+         box-shadow: 8px 2px 6px black;
+         font-size: 22px;
+         font-family: comic sans ms;
+         color: black;
+         padding: 15px;
+         box-sizing: border-box;
+         overflowY: scroll;
+          display: block;
+         
+         
+}
